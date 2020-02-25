@@ -6,6 +6,7 @@ public class LoveStory {
 		System.out.println("我喜欢你！！！！———zhangsan");
 		System.out.println("I don't like you!!!!");
 		System.out.println("*********************************");
+		System.out.println("Sorry,we can make friend!!!!!");
 	}
 	
 }
