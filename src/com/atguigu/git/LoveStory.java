@@ -1,0 +1,9 @@
+package com.atguigu.git;
+
+public class LoveStory {
+	
+	public static void main(String[] args) {
+		System.out.println("我喜欢你！！！！———zhangsan");
+	}
+	
+}
